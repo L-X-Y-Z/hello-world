@@ -1,4 +1,4 @@
 Hey say something
 more
 master info1
-date 16:58 2019-05-29
+today date 16:58 2019-05-29
